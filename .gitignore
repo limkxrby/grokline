@@ -1,0 +1,11 @@
+node_modules
+.vercel
+.env
+.env.*
+screenshots
+artifacts
+dist
+.output
+.grok
+*.log
+AGENTS.md
